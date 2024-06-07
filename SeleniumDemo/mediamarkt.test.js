@@ -30,4 +30,3 @@ beforeAll(async () => {
     expect(price).toBe("444,– €")
   }, 30000)
   
-  

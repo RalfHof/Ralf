@@ -88,4 +88,3 @@ test.skip("ob der Titel korrekt angezeigt wird", async () => {
 //     await driver.quit();
 //   }, 3000);
 });
-
